@@ -1,0 +1,11 @@
+Assignment 1 - Team 14 - Question 2
+
+Resources Used:
+Interpretation and Convergence from https://en.wikipedia.org/wiki/Viète%27s_formula
+
+Team 14:
+Akshatha Ramesh - 1KS17CS003
+Amogh R - 1KS17CS005
+Nikhil Subramanya K - 1KS17CS046
+-------------------------------------------------------------------------------------------------------------------
+Sir, we have first implemented the required solution in normal Python code,  which we have sent in the same folder.
